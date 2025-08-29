@@ -1,6 +1,0 @@
-show_id,type,title,director,country,release_year,rating,duration,listed_in
-s1,Movie,Inception,Christopher Nolan,United States,2010,PG-13,148 min,"Sci-Fi & Fantasy, Action"
-s2,TV Show,Stranger Things,,United States,2016,TV-14,3 Seasons,"TV Shows, Horror"
-s3,Movie,The Irishman,Martin Scorsese,United States,2019,R,209 min,"Crime, Drama"
-s4,Movie,Roma,Alfonso Cuarón,Mexico,2018,R,135 min,"Drama, International Movies"
-s5,TV Show,Dark,,Germany,2017,TV-MA,3 Seasons,"Thriller, Sci-Fi & Fantasy"
